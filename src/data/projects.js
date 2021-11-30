@@ -13,8 +13,7 @@ export const ProjectData = [
 
   {
     id: 2,
-    title:
-      "This is an ongoing E-commerce project, I plan to use react or fullstack",
+    title: "This is an ongoing E-commerce project, I plan to use react",
     about: "ECOMMERCE PROJECT.",
     tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
     demo: "www.example.com",
@@ -36,7 +35,7 @@ export const ProjectData = [
   {
     id: 4,
     title: "This is ongoing big clone project",
-    about: "A ongoing ddsadassad HUGE CLONE PROJECT.",
+    about: "A ongoing HUGE CLONE PROJECT, fullstack and reactjs.",
     tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
     demo: "www.example.com",
     github: "www.example.com",
