@@ -13,7 +13,9 @@ function Header() {
   return (
     <div className="header">
       <div onClick={handleLogoClick} className="logo">
-        Digital Nomad
+        <a href="https://docs.google.com/document/d/1j5TCl8QMSmEnc2XjkQqJhqs_EKSJYGCHyM8E9DQvL2g/edit?usp=sharing">
+          Digital Nomad
+        </a>
       </div>
       <div className="menu">
         <div className="web-menu">

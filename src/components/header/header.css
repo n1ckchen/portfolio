@@ -22,10 +22,12 @@
 }
 .logo {
   display: flex;
-
-  font-size: 36px;
+  font-size: 30px;
   color: blueviolet;
   font-weight: 800;
+}
+.logo a {
+  text-decoration: none;
 }
 @media only screen and (max-width: 720px) {
   .mobile-menu {
