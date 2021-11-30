@@ -24,17 +24,6 @@ export const ProjectData = [
   },
   {
     id: 3,
-    title: "This should be a Bronchure project",
-    about:
-      "This is a radom project I am using to illustrate I hope you are enjoying this.",
-    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
-    demo: "www.example.com",
-    github: "www.example.com",
-    image:
-      "https://images.unsplash.com/photo-1611603671920-79bd5d1ec7bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80",
-  },
-  {
-    id: 4,
     title: "This should be a game project",
     about:
       "This is a radom project I am using to illustrate I hope you are enjoying this.",
@@ -43,6 +32,17 @@ export const ProjectData = [
     github: "www.example.com",
     image:
       "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+  },
+  {
+    id: 4,
+    title: "This should be a Bronchure project",
+    about:
+      "This is a radom project I am using to illustrate I hope you are enjoying this.",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image:
+      "https://images.unsplash.com/photo-1611603671920-79bd5d1ec7bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80",
   },
   {
     id: 5,
