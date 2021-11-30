@@ -20,7 +20,7 @@ export const SocialData = [
   {
     platform: "Gmail",
     icon: require("../assets/icons/gmail.png").default,
-    link: `"mailto:chen.nick.dev@gmail.com"`,
+    link: "mailto:chen.nick.dev@gmail.com",
   },
   {
     platform: "Twitter",
