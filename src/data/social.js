@@ -17,11 +17,11 @@ export const SocialData = [
     icon: require("../assets/icons/linkedin.png").default,
     link: "http://www.linkedin.com/in/n1ckchen",
   },
-  {
-    platform: "Gmail",
-    icon: require("../assets/icons/gmail.png").default,
-    link: "mailto:chen.nick.dev@gmail.com",
-  },
+  // {
+  //   platform: "Gmail",
+  //   icon: require("../assets/icons/gmail.png").default,
+  //   link: "mailto:chen.nick.dev@gmail.com",
+  // },
   {
     platform: "Twitter",
     icon: require("../assets/icons/twitter.png").default,
