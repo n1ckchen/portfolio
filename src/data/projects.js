@@ -1,34 +1,58 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "Random Project 2",
+    title: "Cryptocurrency Tracker",
     about:
-      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
-    tags: ["ReactJs", "NodeJs", "Firebase", "Healthcare"],
-    demo: "www.example.com",
-    github: "www.example.com",
+      "React api, live app to track cryptocurrency, click to see live demo!",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
+    demo: "https://react-api-cryptocurrency.netlify.app/",
+    github: "https://github.com/n1ckchen/react-api-cryptocurrency-tracker",
     image:
-      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
+      "https://images.unsplash.com/photo-1621932953986-15fcf084da0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2944&q=80",
   },
 
   {
-    id: 1,
-    title: "Random Project 1",
+    id: 2,
+    title: "This should be an E-commerce project",
     about:
-      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
-    tags: [
-      "ReactJs",
-      "NodeJs",
-      "Firebase",
-      "Healthcare",
-      "ReactJs",
-      "NodeJs",
-      "Firebase",
-      "Healthcare",
-    ],
+      "This is a radom project I am using to illustrate I hope you are enjoying this.",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
     demo: "www.example.com",
     github: "www.example.com",
     image:
-      "https://cdn.dribbble.com/users/2657627/screenshots/13959270/media/b1a8b2b53760dc5c10e6cddc1409a3a1.png?compress=1&resize=400x300",
+      "https://images.unsplash.com/photo-1576072446584-4955dfe17b86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+  },
+  {
+    id: 3,
+    title: "This should be a Bronchure project",
+    about:
+      "This is a radom project I am using to illustrate I hope you are enjoying this.",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image:
+      "https://images.unsplash.com/photo-1611603671920-79bd5d1ec7bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80",
+  },
+  {
+    id: 4,
+    title: "This should be a game project",
+    about:
+      "This is a radom project I am using to illustrate I hope you are enjoying this.",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image:
+      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+  },
+  {
+    id: 5,
+    title: "This can be a big clone project",
+    about:
+      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
+    tags: ["ReactJs", "NodeJs", "JavaScript", "CSS"],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image:
+      "https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1570&q=80",
   },
 ];

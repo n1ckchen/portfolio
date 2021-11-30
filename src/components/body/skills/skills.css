@@ -6,7 +6,7 @@
 }
 .skills-section {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin: 12px 0px;
 }
 .skills-section-title {
@@ -16,8 +16,8 @@
 .skills-list {
   display: flex;
   flex-wrap: wrap;
-  max-width: 70%;
-  justify-content: flex-end;
+  max-width: 100%;
+  justify-content: center;
 }
 @media only screen and (max-width: 720px) {
   .skills-list {
