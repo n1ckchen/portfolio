@@ -55,6 +55,11 @@ export const SkillsData = [
         icon: <i class="devicon-html5-plain colored"></i>,
       },
       {
+        name: "Bootstrap",
+        icon: <i class="devicon-bootstrap-plain colored"></i>,
+      },
+
+      {
         name: "Python",
         icon: <i class="devicon-python-plain colored"></i>,
       },
