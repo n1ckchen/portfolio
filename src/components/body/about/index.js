@@ -7,7 +7,12 @@ function About() {
       <div className="about-top">
         <div className="about-info">
           Hello There 👋, I am <br />
-          <span className="info-name">Weiyu (Nick) Chen</span>.<br />
+          <a
+            className="resume-a"
+            href="https://docs.google.com/document/d/1j5TCl8QMSmEnc2XjkQqJhqs_EKSJYGCHyM8E9DQvL2g/edit?usp=sharing"
+          >
+            <span className="info-name">Weiyu (Nick) Chen</span>.<br />{" "}
+          </a>
           Software Engineer. React Developer.
         </div>
         <div className="about-photo">

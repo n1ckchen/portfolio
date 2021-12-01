@@ -10,7 +10,7 @@ function Projects() {
       <Separator />
       <label className="section-title">Projects</label>
       <div>
-        <p>A showcare of my works and projects. Github for more.</p>
+        <p>A showcase of my works and projects. Github for more.</p>
         {data.map((project) => {
           return <ProjectCard project={project} />;
         })}

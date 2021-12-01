@@ -17,6 +17,10 @@
   font-size: 32px;
   color: blue;
 }
+
+.resume-a {
+  text-decoration: none;
+}
 @media only screen and (max-width: 720px) {
   .about-top {
     flex-direction: column;
