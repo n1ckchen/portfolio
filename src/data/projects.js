@@ -4,9 +4,9 @@ export const ProjectData = [
     title: "Netflix Clone",
     about:
       "Fullstack API project, come watch cool trailers on my netflix clone! Click to see live demo!",
-    tags: ["ReactJs", "JavaScript", "Axios", "Fullstack"],
-    demo: "www.example.com",
-    github: "www.example.com",
+    tags: ["Fullstack", "ReactJs", "JavaScript", "Axios", "Tailwind"],
+    demo: "https://netflix-c1one.netlify.app/",
+    github: "https://github.com/n1ckchen/netflix_clone",
     image:
       "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
   },
@@ -14,7 +14,7 @@ export const ProjectData = [
     id: 2,
     title: "Cryptocurrency Tracker",
     about:
-      "React API app to keep cryptocurrency on track . Click to see live demo!",
+      "React API project to keep cryptocurrency on track . Click to see live demo!",
     tags: ["ReactJs", "NodeJs", "JavaScript", "CSS", "Axios"],
     demo: "https://react-api-cryptocurrency.netlify.app/",
     github: "https://github.com/n1ckchen/react-api-cryptocurrency-tracker",
