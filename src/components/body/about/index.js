@@ -9,7 +9,7 @@ function About() {
           Hello There 👋, I am <br />
           <a
             className="resume-a"
-            href="https://docs.google.com/document/d/1j5TCl8QMSmEnc2XjkQqJhqs_EKSJYGCHyM8E9DQvL2g/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1yiV9bTWY_4BwkyNyw1PCZDa6vujLBNM85dqvqZYFvPE/edit?usp=sharing"
           >
             <span className="info-name">Weiyu (Nick) Chen</span>.<br />{" "}
           </a>
