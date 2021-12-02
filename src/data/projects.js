@@ -4,7 +4,7 @@ export const ProjectData = [
     title: "Netflix Clone",
     about:
       "Fullstack API project, come watch cool trailers on my netflix clone! Click to see live demo!",
-    tags: ["Fullstack", "ReactJs", "JavaScript", "Axios", "Tailwind"],
+    tags: ["Fullstack", "ReactJs", "JavaScript", "Axios", "Tailwind CSS"],
     demo: "https://netflix-c1one.netlify.app/",
     github: "https://github.com/n1ckchen/netflix_clone",
     image:
