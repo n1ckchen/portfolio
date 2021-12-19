@@ -47,11 +47,15 @@ export const SkillsData = [
         icon: <i class="devicon-python-plain colored"></i>,
       },
       {
+        name: "Flask",
+        icon: <i class="devicon-flask-plain colored"></i>,
+      },
+      {
         name: "NodeJS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
       },
       {
-        name: "postgresql",
+        name: "Postgresql",
         icon: <i class="devicon-postgresql-plain colored"></i>,
       },
       {
