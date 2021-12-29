@@ -59,6 +59,11 @@ export const SkillsData = [
         icon: <i class="devicon-postgresql-plain colored"></i>,
       },
       {
+        name: "Express",
+        icon: <i class="devicon-express-original colored"></i>,
+      },
+
+      {
         name: "CSS",
         icon: <i class="devicon-css3-plain colored"></i>,
       },
